@@ -13,3 +13,5 @@ Saved
 *.xcodeproj
 *.xcworkspace
 .DS_Store
+Config/DefaultEngine.ini
+Config/DefaultEngine.ini
